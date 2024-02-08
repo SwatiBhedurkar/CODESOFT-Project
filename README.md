@@ -1,2 +1,2 @@
 # CODESOFT-Project
-my first project I build create a Calculater
+It is my first project I build a Calculater.
